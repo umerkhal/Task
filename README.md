@@ -1,4 +1,4 @@
-# **Task Management System - MERN Stack**  
+# **Tasky - MERN Stack**  
 
 A full-stack task management application built with **React (Frontend)** and **Express + MongoDB (Backend)**. Features include task listing, search, pagination, and deletion. Uses **TanStack Query (React Query)** for optimized data fetching.
 
@@ -114,7 +114,7 @@ task-management/
 ---
 
 ## **📜 License**  
-MIT License © 2023 Ahmed Shah  
+MIT License © 2023 Umer Khalid Vajad 
 
 ---
 
